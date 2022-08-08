@@ -15,7 +15,7 @@ This program may also be forked from [Github](https://github.com/rensyphon/PWA-T
 Once the program is running—either online through a web browser or locally—simply enter text. The text will automatically be saved.
 
     ```md
-    ![screenshot](assets/images/screenshot.png)
+    ![screenshot](assets/images/screenshot.jpg)
     ```
 
 ## Credits
